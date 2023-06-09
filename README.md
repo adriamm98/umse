@@ -1,8 +1,8 @@
 # Evaluating Unsupervised Denoising Requires Unsupervised Metrics 
 
-To appear at *ICML International Conference On Machine Learning 2023*
+To appear at **ICML International Conference On Machine Learning 2023**
 
-Authors: *Adrià Marcos Morales · Matan Leibovich · Sreyas Mohan · Joshua Vincent · Piyush Haluai · Mai Tan · Peter Crozier · Carlos Fernandez-Granda*
+Authors: **Adrià Marcos Morales · Matan Leibovich · Sreyas Mohan · Joshua Vincent · Piyush Haluai · Mai Tan · Peter Crozier · Carlos Fernandez-Granda**
 
 Paper: [arXiv:2210.05553](https://arxiv.org/abs/2210.05553)
 
